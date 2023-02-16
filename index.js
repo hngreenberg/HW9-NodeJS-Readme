@@ -34,7 +34,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "require",gi
+    name: "require",
     message: "List any project dependencies here.",
   },
   {
